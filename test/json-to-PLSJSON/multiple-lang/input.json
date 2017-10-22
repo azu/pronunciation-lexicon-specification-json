@@ -1,0 +1,17 @@
+{
+  "lexeme": [
+    {
+      "lang": "jp",
+      "grapheme": [
+        "nihongo",
+        "日本語"
+      ],
+      "phoneme": "ɲihoŋo"
+    },
+    {
+      "lang": "en-US",
+      "grapheme": "Roberto",
+      "phoneme": "ɹəˈbɛːɹɾoʊ"
+    }
+  ]
+}
