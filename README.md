@@ -2,6 +2,11 @@
 
 Builder for Pronunciation Lexicon Specification.
 
+- Human writable JSON to Pronunciation Lexicon Specification (PLS) like JSON.
+- Human writable JSON to Pronunciation Lexicon Specification (PLS) XML.
+
+Spec: [Pronunciation Lexicon Specification (PLS) Version 1.0](https://www.w3.org/TR/pronunciation-lexicon/ "Pronunciation Lexicon Specification (PLS) Version 1.0")
+
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
