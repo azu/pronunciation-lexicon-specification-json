@@ -11,7 +11,7 @@
     "src/"
   ],
   "name": "pronunciation-lexicon-specification-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Builder for Pronunciation Lexicon Specification.",
   "main": "lib/pronunciation-lexicon-specification-json.js",
   "scripts": {
