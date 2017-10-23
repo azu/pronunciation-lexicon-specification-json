@@ -1,6 +1,6 @@
 # pronunciation-lexicon-specification-json
 
-Builder for Pronunciation Lexicon Specification(PLS).
+Convert JSON to Pronunciation Lexicon Specification(PLS) XML.
 
 - Human writable JSON to Pronunciation Lexicon Specification (PLS) XML.
 
