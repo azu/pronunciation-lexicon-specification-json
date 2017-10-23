@@ -2,9 +2,9 @@
 import * as assert from "assert";
 import * as fs from "fs";
 import * as path from "path";
-import { toPLSJSON, toPLSXML } from "../src/pronunciation-lexicon-builder";
+import { toPLSJSON, toPLSXML } from "../src/pronunciation-lexicon-specification-json";
 
-describe("pronunciation-lexicon-builder", () => {
+describe("pronunciation-lexicon-specification-json", () => {
     describe("toXML", () => {
         const fixturesDir = path.join(__dirname, "json-to-PLSXML");
         fs.readdirSync(fixturesDir).map(caseName => {

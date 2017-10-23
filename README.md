@@ -1,17 +1,16 @@
-# pronunciation-lexicon-builder
+# pronunciation-lexicon-specification-json
 
-Builder for Pronunciation Lexicon Specification(.pls file).
+Builder for Pronunciation Lexicon Specification(PLS).
 
-- Human writable JSON to Pronunciation Lexicon Specification (PLS) like JSON.
 - Human writable JSON to Pronunciation Lexicon Specification (PLS) XML.
 
-Spec: [Pronunciation Lexicon Specification (PLS) Version 1.0](https://www.w3.org/TR/pronunciation-lexicon/ "Pronunciation Lexicon Specification (PLS) Version 1.0")
+PLS spec: [Pronunciation Lexicon Specification (PLS) Version 1.0](https://www.w3.org/TR/pronunciation-lexicon/ "Pronunciation Lexicon Specification (PLS) Version 1.0")
 
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
 
-    npm install pronunciation-lexicon-builder
+    npm install pronunciation-lexicon-specification-json
 
 ## Usage
 
@@ -24,7 +23,7 @@ Install with [npm](https://www.npmjs.com/):
 
 ## Changelog
 
-See [Releases page](https://github.com/azu/pronunciation-lexicon-builder/releases).
+See [Releases page](https://github.com/azu/pronunciation-lexicon-specification-json/releases).
 
 ## Running tests
 
@@ -36,7 +35,7 @@ Install devDependencies and Run `npm test`:
 
 Pull requests and stars are always welcome.
 
-For bugs and feature requests, [please create an issue](https://github.com/azu/pronunciation-lexicon-builder/issues).
+For bugs and feature requests, [please create an issue](https://github.com/azu/pronunciation-lexicon-specification-json/issues).
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
