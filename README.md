@@ -15,8 +15,8 @@ Install with [npm](https://www.npmjs.com/):
 ## Usage
 
 ```js
-import {toPLSXML} from "pronunciation-lexicon-specification-json";
-toPLSXML({
+import {jsonToPLSXML} from "pronunciation-lexicon-specification-json";
+jsonToPLSXML({
  "lang": "en-US",
  "alphabet": "ipa",
  "lexeme": [

@@ -18,12 +18,12 @@ export interface PLBOptions {}
 export const DefaultOptions: PLBOptions = {};
 
 // return xml
-export function toPLSXML(json: BuilderJSON, options: PLBOptions = DefaultOptions) {
-    return js2xml(toPLSJSON(json, options), { compact: true, spaces: 4 });
+export function jsonToPLSXML(json: BuilderJSON, options: PLBOptions = DefaultOptions) {
+    return js2xml(jsonToPLSJSON(json, options), { compact: true, spaces: 4 });
 }
 
 // return json that is not official format
-export function toPLSJSON(json: BuilderJSON, _options: PLBOptions = DefaultOptions) {
+export function jsonToPLSJSON(json: BuilderJSON, _options: PLBOptions = DefaultOptions) {
     return {
         _declaration: {
             _attributes: {
