@@ -18,22 +18,11 @@
       {
         "grapheme": [
           {
-            "_text": "La vita è"
-          },
-          {
-            "_text": " bella"
+            "_text": "Node.js"
           }
         ],
-        "phoneme": {
-          "_text": "ˈlɑ ˈviːɾə ˈʔeɪ ˈbɛlə"
-        }
-      },
-      {
-        "grapheme": {
-          "_text": "Roberto"
-        },
-        "phoneme": {
-          "_text": "ɹəˈbɛːɹɾoʊ"
+        "alias": {
+          "_text": "ノードジェーエス"
         }
       }
     ]

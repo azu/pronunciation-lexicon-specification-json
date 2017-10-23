@@ -1,7 +1,8 @@
 {
+  "lang": "en-US",
+  "alphabet": "ipa",
   "lexeme": [
     {
-      "lang": "en-US",
       "grapheme": [
         "La vita è",
         " bella"
@@ -9,7 +10,6 @@
       "phoneme": "ˈlɑ ˈviːɾə ˈʔeɪ ˈbɛlə"
     },
     {
-      "lang": "en-US",
       "grapheme": "Roberto",
       "phoneme": "ɹəˈbɛːɹɾoʊ"
     }

@@ -1,6 +1,6 @@
 # pronunciation-lexicon-builder
 
-Builder for Pronunciation Lexicon Specification.
+Builder for Pronunciation Lexicon Specification(.pls file).
 
 - Human writable JSON to Pronunciation Lexicon Specification (PLS) like JSON.
 - Human writable JSON to Pronunciation Lexicon Specification (PLS) XML.
@@ -16,6 +16,11 @@ Install with [npm](https://www.npmjs.com/):
 ## Usage
 
 - [ ] Write usage instructions
+
+## Related
+
+- [Using the PutLexicon Operation - Amazon Polly](http://docs.aws.amazon.com/polly/latest/dg/gs-put-lexicon.html "Using the PutLexicon Operation - Amazon Polly")
+- [Working with Speech Recognition Grammar — OpenHRI Manual](http://openhri.readthedocs.io/en/latest/workingwithgrammar.html "Working with Speech Recognition Grammar — OpenHRI Manual")
 
 ## Changelog
 

@@ -1,15 +1,15 @@
 {
+  "lang": "en-US",
+  "alphabet": "ipa",
   "lexeme": [
     {
-      "lang": "jp",
       "grapheme": [
-        "nihongo",
-        "日本語"
+        "colour",
+        "color"
       ],
-      "phoneme": "ɲihoŋo"
+      "phoneme": "kʌlər"
     },
     {
-      "lang": "en-US",
       "grapheme": "Roberto",
       "phoneme": "ɹəˈbɛːɹɾoʊ"
     }
